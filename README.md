@@ -14,11 +14,14 @@ Chris Blakely on YouTube.
 - Tailwind CSS
 - shadcn/ui
 - Vite
-
 - JWT Authentication
 
 ## Features
 - User Accounts
 - User Profiles
+- Image Uploading
+- Restaurant Management
+
+**Check out the [API repo](https://github.com/nagiashraf/food-ordering-app-backend).**
 
 **You can watch Chris' course on [YouTube](https://www.youtube.com/watch?v=ardeKHEN1j4&t=18805s&ab_channel=ChrisBlakely).**
